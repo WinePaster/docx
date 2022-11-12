@@ -48,7 +48,7 @@ describe("Body", () => {
                                     _attr: {},
                                 },
                             },
-                            // { "w:cols": { _attr: { "w:space": 708, "w:sep": false, "w:num": 1 } } },
+                            { "w:cols": { _attr: { "w:space": 708, "w:sep": false, "w:num": 1 } } },
                             { "w:docGrid": { _attr: { "w:linePitch": 360 } } },
                         ],
                     },
